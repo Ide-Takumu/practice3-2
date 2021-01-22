@@ -1,0 +1,12 @@
+# 勤務表 2020_12Dec（福谷　咲奈）
+#
+#----------------------------------------
+#日付  時刻（in/out） 稼働率[%] 交通費  作業内容
+12/03 16:00 21:00   100      650    rubyの知識確認
+12/07 14:30 21:30   100      650    rubyの外部呼び出し，cのmakefile，cのポインタ
+12/10 15:00 22:00   100      650    cの入社テスト（素数，フィボナッチ，再帰），ubuntuのセットアップ
+12/16 13:00 22:00   100      650    install and practice　gnuplot，use sinfunc to practice plot in ruby requisites
+12/18 13:30 22:00   100      650    gnuplot math func終了，　ruby practice3 年休計算
+12/21 16:30 22:00   100      650    ruby practice2 データをgnuplotように書き換える
+12/26 16:30 22:00   100      650    ruby practice2 データをgnuplotように書き換える
+#---------------------------------------- 
