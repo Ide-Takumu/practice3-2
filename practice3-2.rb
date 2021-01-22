@@ -1,5 +1,5 @@
 require 'pp'
-
+#修正
 Dir.glob('kinmu/*') do |fpath|
     #printf("fpathは：[%s]\n",fpath)
   
